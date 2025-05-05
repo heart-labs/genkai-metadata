@@ -1,0 +1,14 @@
+{
+  "name": "Genkai Soul #2750",
+  "image": "https://raw.githubusercontent.com/heart-labs/genkai-metadata/refs/heads/main/images/2750.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Genkai"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

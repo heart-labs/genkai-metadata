@@ -1,0 +1,14 @@
+{
+  "name": "Corrupted Soul #1576",
+  "image": "https://raw.githubusercontent.com/heart-labs/genkai-metadata/refs/heads/main/images/1576.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Corrupted"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

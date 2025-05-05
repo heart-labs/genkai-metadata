@@ -1,0 +1,14 @@
+{
+  "name": "Humanoid Soul #2657",
+  "image": "https://raw.githubusercontent.com/heart-labs/genkai-metadata/refs/heads/main/images/2657.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Humanoid"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Akuma Soul #773",
+  "image": "https://raw.githubusercontent.com/heart-labs/genkai-metadata/refs/heads/main/images/773.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Akuma"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

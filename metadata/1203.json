@@ -1,0 +1,14 @@
+{
+  "name": "Alien Soul #1203",
+  "image": "https://raw.githubusercontent.com/heart-labs/genkai-metadata/refs/heads/main/images/1203.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

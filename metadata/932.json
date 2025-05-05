@@ -1,0 +1,14 @@
+{
+  "name": "Undead Soul #932",
+  "image": "https://raw.githubusercontent.com/heart-labs/genkai-metadata/refs/heads/main/images/932.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Ape Soul #1908",
+  "image": "https://raw.githubusercontent.com/heart-labs/genkai-metadata/refs/heads/main/images/1908.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
